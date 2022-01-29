@@ -48,7 +48,7 @@ namespace Convertio_Wave
                             // Saving the WAV file to the save path
                             WaveFileWriter.CreateWaveFile(outputBox.Text, pcm);
 
-                            // Erros & Success Message
+                            // Error & Success Message
                             if (outputBox.Text == "Select Path" || outputBox.Text == null)
                             {
                                 MessageBox.Show("You haven't configured a save path!", "Error");
