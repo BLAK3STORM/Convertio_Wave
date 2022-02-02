@@ -8,6 +8,6 @@
 3. Run the ```executable``` & that's it!
 
 ## Requirements
-* OS: ***Windows ONLY***
+* OS: ***Windows 7 or Above***
 * Requires Microsoft .NET Framework 4.7.2
 * Download it from [Here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
